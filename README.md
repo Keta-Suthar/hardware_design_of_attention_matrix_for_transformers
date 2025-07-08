@@ -97,3 +97,6 @@ SRAM_result[addr] <= Z[row][col];
 Throughput = 1/( # cycles x time period) = 26469.03
 
 Area achieved is: 12045.0121
+
+
+For further details contact me on: ksuthar@ncsu.edu
