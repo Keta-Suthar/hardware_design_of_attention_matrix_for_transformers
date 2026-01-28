@@ -17,7 +17,9 @@ This hardware design computes:
 
 ---
 ## Flow chart
-  ![image](https://github.com/user-attachments/assets/fcdbeb00-a74e-4013-919d-7a4058e82877)
+  <p align = "center">
+    <img src = "./images/flow_chart.png">
+  </p>
 
 ---
 
@@ -91,7 +93,9 @@ SRAM_result[addr] <= Z[row][col];
 ```
 
 ## Timing Diagram
-![image](https://github.com/user-attachments/assets/3d21a806-289a-4893-b886-e8086941b3af)
+ <p align = "center">
+    <img src = "./images/waveform.png">
+  </p>
 
 ## Results Achieved
 Throughput = 1/( # cycles x time period) = 26469.03
